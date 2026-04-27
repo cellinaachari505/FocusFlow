@@ -1,13 +1,14 @@
-
+import { useState } from "react";
+import TaskInput from "./components/TaskInput"
 
 function App() {
-
+  const [tasks, setTasks] = useState([]);
 
   return (
     <>
-    <h1>hello</h1>
+      <TaskInput tasks={tasks} setTasks={setTasks} />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
