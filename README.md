@@ -1,8 +1,8 @@
-#  FocusFlow
+## FocusFlow
 
 FocusFlow is a React-based productivity app designed to help users stay focused using structured study sessions, task management, and motivational support.
 
----
+
 
 ##  Features
 
@@ -11,7 +11,7 @@ FocusFlow is a React-based productivity app designed to help users stay focused 
 -  Productivity Dashboard (Track tasks & sessions)
 -  Motivational Quotes (Fetched from API)
 
----
+
 
 ##  Tech Stack
 
@@ -20,7 +20,7 @@ FocusFlow is a React-based productivity app designed to help users stay focused 
 - Tailwind CSS
 - Fetch API
 
----
+
 
 
 
